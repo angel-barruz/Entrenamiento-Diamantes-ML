@@ -1,4 +1,4 @@
-# Proyecto Módulo 3
+# Proyecto Entrenamiento Diamantes
 
 # 👶 Status
 https://github.com/angel-barruz/Project-Module-3
